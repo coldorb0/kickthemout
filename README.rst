@@ -102,4 +102,7 @@ It is built for educational purposes only. If you choose to use it otherwise, th
 In brief, do not use it with evil intent.
 
 Reupload By fireorb
+#Disclaimer Educational Purposes Only
+
+Rizaldy Christoffel
 --------
